@@ -1,0 +1,130 @@
+
+.mom {
+    width:1000px;
+    height:320px;
+    background-color:#f2f2f2;
+    margin-left:20%;
+    margin-top:10%;
+    padding-top:20px;
+
+}
+.child {
+	display: flex;
+   	text-align:center;
+   	position:relative;
+
+}
+
+.childinner1 {
+    margin-left: 25px;
+    background-color: white;
+    min-height: 300px;
+    width:300px;
+
+}
+
+.slika1 {
+	background-image: url(voce.jpg);
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;
+	height:150px;
+	max-width:100%;
+	margin-top:-22px;
+}
+
+.slika2 {
+	background-image: url(vezba.jpg);
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;
+	height:150px;
+	max-width:100%;
+	margin-top:-22px;
+
+}
+
+.childinner2 {
+    margin-left: 25px;
+    background-color: white;
+    min-height: 300px;
+    width:300px;
+}
+
+.slika3 {
+	background-image: url(plan.png);
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;
+	height:150px;
+	max-width:100%;
+	margin-top:-22px;
+
+
+}
+
+.childinner3 {
+    margin-left: 25px;
+    background-color: white;
+    min-height: 300px;
+    width:300px;
+}
+
+.text {
+	position: absolute;
+	bottom: 0px;
+
+}
+
+.circle1 {
+		position: absolute;
+		left: 13%;		
+		bottom: 36%;
+     	width: 85px;
+      	height: 75px;
+      	border-radius: 60px;
+      	background: white;
+}
+
+.circle2 {
+		position: absolute;
+		left: 20%;		
+		bottom: 36%;
+     	width: 85px;
+      	height: 75px;
+      	border-radius: 60px;
+      	background: white;
+}
+
+.circle3 {
+		position: absolute;
+		left: 40%;		
+		bottom: 36%;
+     	width: 85px;
+      	height: 75px;
+      	border-radius: 60px;
+      	background: white;
+}
+
+h5 {
+	text-align:center;
+	padding:270px;
+	margin-left:-56%;
+	white-space: nowrap;
+
+}
+
+.fa-cutlery {
+	font-size:30px;
+	color: #00b300;
+}
+
+.fa-bicycle {
+	font-size:35px;
+	color: #00b300
+}
+
+.fa-file-text-o {
+	font-size:33px;
+	color: #00b300
+}
